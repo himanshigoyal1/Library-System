@@ -24,6 +24,8 @@ A simple Python-based command-line interface for managing and viewing book infor
 1. Make sure you have Python installed on your system
 2. Download the mini_project1.py file
 3. Run the script using:
+
+
 ![mini_project png](https://github.com/user-attachments/assets/41ce7196-2994-4c3f-8063-0f9bdd19c27a)
 
 ## 💻 Usage
